@@ -5,6 +5,8 @@
 - [Cycle Sort](https://www.youtube.com/watch?v=JfinxytTYFQ&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1&rv=JfinxytTYFQ&t=2)
 - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
 - [Quick Sort](https://youtu.be/Z8svOqamag8)
+- [Count Sort](https://www.youtube.com/watch?v=FOo820lJV1Y&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=59)
+- [Radix Sort](https://www.youtube.com/watch?v=mLi6VQDqAOs&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=60)
 
 # Questions
 
